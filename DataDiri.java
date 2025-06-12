@@ -55,7 +55,5 @@ class DataDiriBerakal {
         // Menjalankan method untuk menampilkan data diri
         dataDiriSaya.tampilkanData();
 
-        // Perintah commit untuk menunjukkan pembuatan objek
-        System.out.println("Commit: membuat objek");
     }
 }
