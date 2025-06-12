@@ -50,7 +50,7 @@ class DataDiriBerakal {
     public static void main(String[] args) {
         // Membuat objek dengan nama panggilan Anda
         // Misalnya, nama panggilan Anda adalah "Minje"
-        DataDiri dataDiriSaya = new DataDiri("Aldi", "2210010610", "4C-TI");
+        DataDiri dataDiriSaya = new DataDiri("M. Aldi Ripandi", "2210010610", "4C-TI");
 
         // Menjalankan method untuk menampilkan data diri
         dataDiriSaya.tampilkanData();
